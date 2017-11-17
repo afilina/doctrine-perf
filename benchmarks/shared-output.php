@@ -1,0 +1,4 @@
+<?php
+outputTimeLog();
+outputSqlLog();
+outputMemoryLog();

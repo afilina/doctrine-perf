@@ -1,0 +1,10 @@
+{
+    "require": {
+        "doctrine/orm": "^2.5",
+        "fzaninotto/faker": "^1.7",
+        "myclabs/deep-copy": "^1.7"
+    },
+    "autoload": {
+        "psr-4": {"DoctrinePerformance\\": "models"}
+    }
+}
